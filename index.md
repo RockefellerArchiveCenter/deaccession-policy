@@ -7,8 +7,8 @@
 
 
 ## Deaccession
-   The process by which an archives, museum, or library permanently removes accessioned materials from its holdings 
-  
+   The process by which an archives, museum, or library permanently removes accessioned materials from its holdings[^1].
+   
    
 ## When Deaccessioning occurs: 
    A deaccession can consist an entire accession, or a portion thereof. 
@@ -68,6 +68,10 @@
    * The Assistant Director, Head of Collections Management, should retain a temporary copy of each Deaccession Form (but not 
      Permanent Removal Forms) so that these copies can be provided to the Executive Assistant to the RAC President each year 
      for submission to the State of New York. 
+     
+     
+## Footnotes
+ [^1]: [Society of American Archivists Glossary](https://www2.archivists.org/glossary/terms/d/deaccessioning)
     
 
         
