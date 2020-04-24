@@ -1,8 +1,7 @@
-    ---
-    layout: docs
-    
-    title: "Deaccession Policy"
-    ---
+---
+layout: docs
+title: "Deaccession Policy"
+---
 
 
 
