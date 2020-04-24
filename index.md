@@ -9,13 +9,13 @@ title: "Deaccession Policy"
    The process by which an archives, museum, or library permanently removes accessioned materials from its holdings[^1].
    
    
-## When Deaccessioning occurs: 
+## When Deaccessioning Occurs 
    A deaccession can consist an entire accession, or a portion thereof. 
    Any archival materials deaccessioned on the initiation of the RAC must undergo reappraisal in accordance with the 
    RAC’s [Reappraisal Policy](https://docs.rockarch.org/reappraisal-policy/). 
    A donor/depositor organization or individual may also request the deaccession of materials from the RAC holdings. 
    
-## Disposition Options for Deaccessioned Records: 
+## Disposition Options for Deaccessioned Records 
 
 * __Return to Donor or Depositor:__ 
         During the deaccession process a Donor/Depositor will be contacted.  If the Donor/Depositor would like the 
@@ -38,7 +38,7 @@ title: "Deaccession Policy"
         defined by the IRS Code, and must be in keeping with museum and archival ethics requirements that sale proceeds only 
         be used to acquire new collection materials or to provide for the direct care of collections. 
         
-## Deaccessioning Documentation: 
+## Deaccessioning Documentation 
    For  the Rockefeller Archive Center, deaccessioning is one of the major activities that must be reported to the State of 
    New York. It is critical that any deaccessioning activities be thoroughly documented. Documentation should include: 
    
