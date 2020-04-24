@@ -1,10 +1,10 @@
 # Deaccession Policy
 
-The Rockefeller Archive Center's Policy on Deaccession
+The Rockefeller Archive Center's policy on deaccessioning archival materials. 
 
 ## Accessing the Policy
 
-  The content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation for the                   Rockefeller Archive Center.
+The content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation for the     Rockefeller Archive Center.
 
 ## License
 
